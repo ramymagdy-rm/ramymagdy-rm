@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-Currently working on micro-mobility IoT firmware.<br>Looking to keep working on environmental, health, communication and industrial projects,<br>believing that they make people lives safer, easier, and more convenient.<br>I believe in continuous learning, innovative teams, developing sustainable automated solutions.
+Currently working on micro-mobility IoT firmware.<br>Looking forward to keep working on environmental, health, communication and industrial projects,<br>believing that they make people lives safer, easier, and more convenient .<br>I believe in continuous learning, innovative teams, developing sustainable automated solutions.
 
 
 ## 🌐 Socials:
