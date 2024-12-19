@@ -1,6 +1,10 @@
 ### Hi there 👋
 # 💫 About Me:
-Looking forward to keep working on environmental, health, communication and industrial projects,<br>believing that they make people lives safer, easier, and more convenient .<br>I believe in continuous learning, innovative teams, developing sustainable automated solutions.
+🔭 Currently working on: Mobility and health projects to make lives safer, easier, and more convenient
+🤝 Looking to collaborate on: Innovative teams creating sustainable automated solutions
+🌱 Currently learning: Networking and communication protocols for embedded systems utilization
+💡 Ask me about: Mechatronics, embedded firmware engineering
+⚡ Fun fact: I find debugging so satisfying that I sometimes dream about fixing bugs!
 
 
 ## 🌐 Socials:
