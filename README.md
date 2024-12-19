@@ -1,9 +1,9 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 Currently working on: Mobility and health projects to make lives safer, easier, and more convenient
-🤝 Looking to collaborate on: Innovative teams creating sustainable automated solutions
-🌱 Currently learning: Networking and communication protocols for embedded systems utilization
-💡 Ask me about: Mechatronics, embedded firmware engineering
+🔭 Currently working on: Mobility and health projects to make lives safer, easier, and more convenient<br>
+🤝 Looking to collaborate on: Innovative teams creating sustainable automated solutions<br>
+🌱 Currently learning: Networking and communication protocols for embedded systems utilization<br>
+💡 Ask me about: Mechatronics, embedded firmware engineering<br>
 ⚡ Fun fact: I find debugging so satisfying that I sometimes dream about fixing bugs!
 
 
