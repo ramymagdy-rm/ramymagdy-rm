@@ -55,9 +55,9 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 # 📊 GitHub Stats:
-#![](https://github-readme-stats.vercel.app/api?username=ramymagdy-rm&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-#![](https://github-readme-streak-stats.herokuapp.com/?user=ramymagdy-rm&theme=dark&hide_border=true)<br/>
-#![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramymagdy-rm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=ramymagdy-rm&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=ramymagdy-rm&theme=dark&hide_border=true)<br/>->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramymagdy-rm&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)->
 # 💼 fiverr gig:
 https://www.fiverr.com/s/exkpG4
 <!--
