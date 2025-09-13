@@ -4,8 +4,6 @@
 🤝 Looking to collaborate with: Innovative teams creating sustainable automated solutions. Long-term, to learn mobile development<br>
 🌱 Currently learning: Networking and communication protocols for embedded systems utilization<br>
 💡 Ask me about: Mechatronics engineering, embedded systems, firmware development<br>
-<!--⚡ Fun fact: I find debugging so satisfying that I sometimes dream about fixing bugs!-->
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-ezzat/)
