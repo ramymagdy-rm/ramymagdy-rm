@@ -12,6 +12,7 @@
 **IoT Engineer @ [Mapit IoT](https://mapit.me)** — building connected mobility from silicon to cloud 🛰️
 
 I write the firmware that keeps motorcycles connected: IoT negotiating with the real world, and telemetry pipelines turning raw GNSS into routes that make sense. 📡
+
 ⚙️ [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramyezzatmapzon)
 
 <img src="https://raw.githubusercontent.com/ramymagdy-rm/ramymagdy-rm/output/snake.svg" alt="Snake animation" />
