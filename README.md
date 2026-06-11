@@ -3,10 +3,16 @@
 🔭 Currently working on: Mobility and health projects. My goal is to make lives safer, easier, and more convenient<br>
 🤝 Looking to collaborate with: Innovative teams creating sustainable automated solutions. Long-term, to make cool mobile apps<br>
 🌱 Currently learning: Zephyr, Rust, portable cross-platform FW<br>
-💡 Ask me about: Mechatronics engineering, embedded systems, firmware development<br>
+💡 Ask me about: Mechatronics engineering, IOT, embedded systems, firmware development<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-ezzat/)
+
+## 💼🏍️ Daily adventures:
+**IoT Engineer @ [Mapit IoT](https://mapit.me)** — building connected mobility from silicon to cloud 🛰️
+
+I write the firmware that keeps motorcycles connected: IoT negotiating with the real world, and telemetry pipelines turning raw GNSS into routes that make sense. 📡
+⚙️ [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramyezzatmapzon)
 
 <img src="https://raw.githubusercontent.com/ramymagdy-rm/ramymagdy-rm/output/snake.svg" alt="Snake animation" />
 
@@ -16,11 +22,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -54,6 +58,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
+
 
 <!--
 ## 💼 fiverr gig:
