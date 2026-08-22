@@ -5,6 +5,9 @@
 🌱 Currently learning: Zephyr, Rust, portable cross-platform FW<br>
 💡 Ask me about: Mechatronics engineering, IOT, embedded systems, firmware development<br>
 
+## 🚀 Projects:
+- **[Floor Planner](https://floor-planer.web.app/)** — browser-based floor plan designer: draw rooms, place furniture, and lay out spaces 📐
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-ezzat/)
 
