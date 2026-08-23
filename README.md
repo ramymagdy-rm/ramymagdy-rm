@@ -5,7 +5,7 @@
 🌱 Currently learning: Zephyr, Rust, portable cross-platform FW<br>
 💡 Ask me about: Mechatronics engineering, IOT, embedded systems, firmware development<br>
 
-## 🚀 Projects:
+## 🚀 Projects (mostly needed them at some point):
 - **[Floor Planner](https://floor-planer.web.app/)** — browser-based floor plan designer: draw rooms, place furniture, and lay out spaces 📐
 
 ## 🌐 Socials:
