@@ -7,6 +7,8 @@
 
 ## 🚀 Projects (mostly needed them at some point):
 - **[Floor Planner](https://floor-planer.web.app/)** — browser-based floor plan designer: draw rooms, place furniture, and lay out spaces 📐
+- **[ESP32 Connect](https://esp-connect-tool.web.app/)** — browser-based tool to flash, configure, and talk to ESP32 boards over UART, BLE, and WiFi, with live characteristics and OTA updates 🔌
+- **[The Brainstormer](https://the-brainstormer-app.web.app/)** — brainstorming and project management web app: capture ideas, then turn them into projects 🧠
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-ezzat/)
