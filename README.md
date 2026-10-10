@@ -2,7 +2,7 @@
 # 💫 About Me:
 🔭 Currently working on: Mobility and health projects. My goal is to make lives safer, easier, and more convenient<br>
 🤝 Looking to collaborate with: Innovative teams creating sustainable automated solutions. Long-term, to make cool mobile apps<br>
-🌱 Currently learning: Zephyr, Rust, portable cross-platform FW<br>
+🌱 Currently learning: ROS, Rust, portable cross-platform FW<br>
 💡 Ask me about: Mechatronics engineering, IOT, embedded systems, firmware development<br>
 
 ## 🚀 Projects (mostly needed them at some point):
