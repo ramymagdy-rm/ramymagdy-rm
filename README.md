@@ -10,6 +10,7 @@
 - **[ESP Connect](https://esp-connect-tool.web.app/)** — browser-based tool to flash, configure, and talk to ESP boards over UART, BLE, and WiFi, with live characteristics and OTA updates -nRF and other families are planned- 🔌
 - **[The Brainstormer](https://the-brainstormer-app.web.app/)** — brainstorming and project management web app: capture ideas, then turn them into projects 🧠
 - **[Clawd Buddy](https://github.com/ramymagdy-rm/clawd-buddy)** — tiny animated desktop pet for Windows and Linux that sits on your taskbar and reacts to Claude Code events: thinking, finished, or waiting for your permission 🦀
+- **[Water Drinking Reminder](https://github.com/ramymagdy-rm/water-drinking-reminder)** — battery-friendly hydration reminder firmware for the M5StickC Plus: wakes from deep sleep on a schedule, buzzes until you drink, and tracks your daily glasses 💧
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-ezzat/)
