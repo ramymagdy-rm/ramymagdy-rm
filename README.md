@@ -11,8 +11,10 @@
 - **[The Brainstormer](https://the-brainstormer-app.web.app/)** — brainstorming and project management web app: capture ideas, then turn them into projects 🧠
 - **[Clawd Buddy](https://github.com/ramymagdy-rm/clawd-buddy)** — tiny animated desktop pet for Windows and Linux that sits on your taskbar and reacts to Claude Code events: thinking, finished, or waiting for your permission 🦀
 - **[Water Drinking Reminder](https://github.com/ramymagdy-rm/water-drinking-reminder)** — battery-friendly hydration reminder firmware for the M5StickC Plus: wakes from deep sleep on a schedule, buzzes until you drink, and tracks your daily glasses 💧
+- **[Desk Dock](https://desk-dock.web.app/)** — a tablet or phone propped beside the keyboard becomes a grid of programmable tiles: weather, water reminder, live Claude Code sessions, git actions, and media controls, with a small desktop companion 🗂️
 
 ## 🌐 Socials:
+[![Resume](https://img.shields.io/badge/Resume-%23FF5722.svg?logo=readthedocs&logoColor=white)](https://re-resume.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramy-ezzat/)
 
 ## 💼🏍️ Daily adventures:
