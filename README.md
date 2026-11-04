@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 💫 About Me:
+# 💫 About:
 🔭 Currently working on: Mobility and health projects. My goal is to make lives safer, easier, and more convenient<br>
 🤝 Looking to collaborate with: Innovative teams creating sustainable automated solutions. Long-term, to make cool mobile apps<br>
 🌱 Currently learning: ROS, Rust, portable cross-platform FW<br>
